@@ -1,0 +1,110 @@
+Animals:
+Lion
+Elephant
+Giraffe
+Tiger
+Zebra
+Monkey
+Dolphin
+Kangaroo
+Panda
+Cheetah
+Fruits:
+Apple
+Banana
+Orange
+Strawberry
+Pineapple
+Watermelon
+Grapefruit
+Mango
+Blueberry
+Kiwi
+Countries:
+Japan
+Brazil
+Canada
+Australia
+France
+Germany
+India
+Mexico
+Italy
+Spain
+Movies:
+Titanic
+Inception
+Avengers
+Jurassic Park
+The Matrix
+Forrest Gump
+The Godfather
+Star Wars
+Frozen
+The Lion King
+Sports:
+Soccer
+Basketball
+Tennis
+Swimming
+Volleyball
+Baseball
+Golf
+Rugby
+Badminton
+Hockey
+Professions:
+Doctor
+Teacher
+Engineer
+Lawyer
+Chef
+Artist
+Pilot
+Firefighter
+Astronaut
+Musician
+Colors:
+Red
+Blue
+Green
+Yellow
+Purple
+Orange
+Pink
+Brown
+Black
+White
+Food:
+Pizza
+Hamburger
+Spaghetti
+Sushi
+Pancake
+Burrito
+Salad
+Tacos
+Omelette
+Sandwich
+Musical Instruments:
+Guitar
+Piano
+Violin
+Flute
+Trumpet
+Drum
+Saxophone
+Cello
+Harp
+Clarinet
+Cartoon Characters:
+Mickey Mouse
+SpongeBob
+Batman
+Superman
+Pikachu
+Spider-Man
+Donald Duck
+Dora the Explorer
+Scooby-Doo
+Tom and Jerry
